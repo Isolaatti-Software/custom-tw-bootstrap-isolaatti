@@ -1,0 +1,14 @@
+/*!
+ * Isolaatti stylesheet
+ * Custom Bootstrap
+ * Copyright 2020-2022 Erik Cavazos
+ * Copyright 2022 Isolaatti Software
+ */
+
+$theme-colors: (
+        "primary": #22034f,
+        "dark": black,
+        "primary-lighter": #7015ea
+);
+
+@import "bt/scss/bootstrap";
